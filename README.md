@@ -33,7 +33,7 @@ The rapid growth of data collection has led to a new era of information. Data is
 Inspiration
 I was always astonished by how each of the restaurants are able to keep up the pace inspite of that cutting edge competition. And what factors should be kept in mind if someone wants to open new restaurant. Does the demography of an area matters? Does location of a particular type of restaurant also depends on the people living in that area? Does the theme of the restaurant matters? Is a food chain category restaurant likely to have more customers than its counter part? Are any neighborhood similar ? If two neighborhood are similar does that mean these are related or particular group of people live in the neighborhood or these are the places to it? What kind of a food is more popular in a locality. Do the entire locality loves vegetarian food. If yes then is that locality populated by a particular sect of people for eg. Jain, Marwaris, Gujaratis who are mostly vegetarian. There are infacts dozens of question in my mind. lets try to find out the answer with this dataset.
 
-You can download the dataset here: [ Zomato Bangalore Restaurants](C:\Users\nages\OneDrive\Desktop\zomato.csv)
+You can download the dataset here: [Zomato Resturant Dataset] (https://github.com/chiragsamal/Zomato/blob/master/Images/zomato.jp)
 
 Sections 📚
 ✔️ Exploratory Data Analysis
